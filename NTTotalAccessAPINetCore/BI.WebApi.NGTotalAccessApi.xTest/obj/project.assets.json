@@ -5571,6 +5571,9 @@
       "BI.Repository.NGTotalAccessApi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.0.0"
+        },
         "compile": {
           "bin/placeholder/BI.Repository.NGTotalAccessApi.dll": {}
         },
@@ -14299,11 +14302,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\BI.WebApi.NGTotalAccessApi.xTest.csproj",
+      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\BI.WebApi.NGTotalAccessApi.xTest.csproj",
       "projectName": "BI.WebApi.NGTotalAccessApi.xTest",
-      "projectPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\BI.WebApi.NGTotalAccessApi.xTest.csproj",
+      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\BI.WebApi.NGTotalAccessApi.xTest.csproj",
       "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\obj\\",
+      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi.xTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14322,8 +14325,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi\\BI.WebApi.NGTotalAccessApi.csproj": {
-              "projectPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi\\BI.WebApi.NGTotalAccessApi.csproj"
+            "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi\\BI.WebApi.NGTotalAccessApi.csproj": {
+              "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.WebApi.NGTotalAccessApi\\BI.WebApi.NGTotalAccessApi.csproj"
             }
           }
         }

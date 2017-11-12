@@ -689,11 +689,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
+      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
       "projectName": "BI.Enterprise.ViewModels.NGTotalAccessApi",
-      "projectPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
+      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
       "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\obj\\",
+      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
-              "projectPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
+            "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
+              "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
             }
           }
         }

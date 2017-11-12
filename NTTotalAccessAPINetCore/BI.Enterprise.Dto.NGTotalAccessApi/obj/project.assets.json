@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
+      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
       "projectName": "BI.Enterprise.Dto.NGTotalAccessApi",
-      "projectPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
+      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
       "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Desktop\\BI\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\obj\\",
+      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

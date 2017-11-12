@@ -3835,6 +3835,9 @@
         }
       },
       "BI.Repository.NGTotalAccessApi/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.0.0"
+        },
         "runtime": {
           "BI.Repository.NGTotalAccessApi.dll": {}
         }
