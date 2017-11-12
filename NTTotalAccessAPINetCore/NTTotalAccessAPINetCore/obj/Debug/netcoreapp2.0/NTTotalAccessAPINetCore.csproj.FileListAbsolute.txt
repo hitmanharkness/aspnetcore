@@ -1,0 +1,11 @@
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\bin\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.deps.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\bin\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.runtimeconfig.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\bin\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.runtimeconfig.dev.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\bin\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\bin\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.pdb
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.csprojResolveAssemblyReference.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.csproj.CoreCompileInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.AssemblyInfoInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.AssemblyInfo.cs
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\NTTotalAccessAPINetCore\obj\Debug\netcoreapp2.0\NTTotalAccessAPINetCore.pdb

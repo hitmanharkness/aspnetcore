@@ -1,0 +1,14 @@
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.csprojResolveAssemblyReference.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.AssemblyInfoInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.AssemblyInfo.cs
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.deps.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.runtimeconfig.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.runtimeconfig.dev.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\bin\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.pdb
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.ServiceBus.Core.NGTotalAccessApi.Test\obj\Debug\netcoreapp2.0\BI.ServiceBus.Core.NGTotalAccessApi.Test.pdb

@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "BI.ServiceBus.Core.NGTotalAccessApi/1.0.0": {
+        "dependencies": {
+          "BI.Enterprise.Dto.NGTotalAccessApi": "1.0.0",
+          "BI.ServiceBus.Repository.NGTotalAccessApi": "1.0.0"
+        },
+        "runtime": {
+          "BI.ServiceBus.Core.NGTotalAccessApi.dll": {}
+        }
+      },
+      "BI.Enterprise.Dto.NGTotalAccessApi/1.0.0": {
+        "runtime": {
+          "BI.Enterprise.Dto.NGTotalAccessApi.dll": {}
+        }
+      },
+      "BI.Repository.NGTotalAccessApi/1.0.0": {
+        "runtime": {
+          "BI.Repository.NGTotalAccessApi.dll": {}
+        }
+      },
+      "BI.ServiceBus.Repository.NGTotalAccessApi/1.0.0": {
+        "dependencies": {
+          "BI.Enterprise.Dto.NGTotalAccessApi": "1.0.0",
+          "BI.Repository.NGTotalAccessApi": "1.0.0"
+        },
+        "runtime": {
+          "BI.ServiceBus.Repository.NGTotalAccessApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BI.ServiceBus.Core.NGTotalAccessApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BI.Enterprise.Dto.NGTotalAccessApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BI.Repository.NGTotalAccessApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BI.ServiceBus.Repository.NGTotalAccessApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

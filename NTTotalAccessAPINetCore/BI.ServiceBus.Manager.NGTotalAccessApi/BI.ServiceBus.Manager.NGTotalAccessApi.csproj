@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BI.Enterprise.ViewModels.NGTotalAccessApi\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj" />
+    <ProjectReference Include="..\BI.ServiceBus.Core.NGTotalAccessApi\BI.ServiceBus.Core.NGTotalAccessApi.csproj" />
+  </ItemGroup>
+
+</Project>

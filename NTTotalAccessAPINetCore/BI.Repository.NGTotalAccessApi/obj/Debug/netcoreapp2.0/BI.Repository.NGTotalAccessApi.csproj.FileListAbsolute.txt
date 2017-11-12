@@ -1,0 +1,11 @@
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.deps.json
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.pdb
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.csprojResolveAssemblyReference.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.pdb
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\terril\Desktop\BI\NTTotalAccessAPINetCore\BI.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
