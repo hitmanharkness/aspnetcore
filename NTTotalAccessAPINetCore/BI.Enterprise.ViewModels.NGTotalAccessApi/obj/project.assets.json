@@ -680,7 +680,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\terril\\.nuget\\packages\\": {},
+    "C:\\Users\\tharknes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -689,17 +689,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
+      "projectUniqueName": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
       "projectName": "BI.Enterprise.ViewModels.NGTotalAccessApi",
-      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
-      "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\obj\\",
+      "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj",
+      "packagesPath": "C:\\Users\\tharknes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.ViewModels.NGTotalAccessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\terril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tharknes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -707,13 +707,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://boucotfs:8080/tfs/SOFTWARE/_packaging/BINugetRepository/nuget/v3/index.json": {},
+        "http://klondike.bi.local/api/odata": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
-              "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
+            "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
+              "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
             }
           }
         }

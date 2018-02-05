@@ -1,0 +1,11 @@
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.deps.json
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.runtimeconfig.json
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.runtimeconfig.dev.json
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.csprojResolveAssemblyReference.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.WebApi.NGTotalAccessApi\Debug\netcoreapp2.0\BI.WebApi.NGTotalAccessApi.pdb

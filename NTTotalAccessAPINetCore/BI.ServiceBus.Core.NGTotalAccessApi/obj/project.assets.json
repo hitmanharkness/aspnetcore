@@ -1288,7 +1288,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "FySkcqmayGdqLGugVR0zWqYM0PUFSpwhepyUM5KLT+IQsnYjgtGtSioXCucgqaS1HMoWzanv4WAr/DUE6k9hVg==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -2811,7 +2811,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\terril\\.nuget\\packages\\": {},
+    "C:\\Users\\tharknes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -2820,17 +2820,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\BI.ServiceBus.Core.NGTotalAccessApi.csproj",
+      "projectUniqueName": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\BI.ServiceBus.Core.NGTotalAccessApi.csproj",
       "projectName": "BI.ServiceBus.Core.NGTotalAccessApi",
-      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\BI.ServiceBus.Core.NGTotalAccessApi.csproj",
-      "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\obj\\",
+      "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\BI.ServiceBus.Core.NGTotalAccessApi.csproj",
+      "packagesPath": "C:\\Users\\tharknes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Core.NGTotalAccessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\terril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tharknes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2838,16 +2838,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://boucotfs:8080/tfs/SOFTWARE/_packaging/BINugetRepository/nuget/v3/index.json": {},
+        "http://klondike.bi.local/api/odata": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
-              "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
+            "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj": {
+              "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj"
             },
-            "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Repository.NGTotalAccessApi\\BI.ServiceBus.Repository.NGTotalAccessApi.csproj": {
-              "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Repository.NGTotalAccessApi\\BI.ServiceBus.Repository.NGTotalAccessApi.csproj"
+            "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Repository.NGTotalAccessApi\\BI.ServiceBus.Repository.NGTotalAccessApi.csproj": {
+              "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.ServiceBus.Repository.NGTotalAccessApi\\BI.ServiceBus.Repository.NGTotalAccessApi.csproj"
             }
           }
         }

@@ -16,3 +16,11 @@ C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterpris
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.AssemblyInfo.cs
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.dll
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.deps.json
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.Dto.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.pdb

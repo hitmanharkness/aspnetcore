@@ -20,3 +20,14 @@ C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterpris
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.AssemblyInfo.cs
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.dll
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.deps.json
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.csprojResolveAssemblyReference.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.Enterprise.ViewModels.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.Enterprise.ViewModels.NGTotalAccessApi.pdb

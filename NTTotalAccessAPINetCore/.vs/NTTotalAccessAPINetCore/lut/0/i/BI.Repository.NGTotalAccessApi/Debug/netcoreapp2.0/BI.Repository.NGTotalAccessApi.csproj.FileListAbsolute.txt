@@ -1,0 +1,9 @@
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.deps.json
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\b\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.csprojResolveAssemblyReference.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\.vs\NTTotalAccessAPINetCore\lut\0\i\BI.Repository.NGTotalAccessApi\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.pdb

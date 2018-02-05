@@ -1,0 +1,12 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  bi.webapi.ngtotalaccessapi.xtest:
+    build:
+      context: C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.WebApi.NGTotalAccessApi.xTest
+      dockerfile: Dockerfile
+    image: bi.webapi.ngtotalaccessapi.xtest
+version: '3.0'
+volumes: {}

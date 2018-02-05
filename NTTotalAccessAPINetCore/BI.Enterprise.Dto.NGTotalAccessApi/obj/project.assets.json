@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\terril\\.nuget\\packages\\": {},
+    "C:\\Users\\tharknes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
+      "projectUniqueName": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
       "projectName": "BI.Enterprise.Dto.NGTotalAccessApi",
-      "projectPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
-      "packagesPath": "C:\\Users\\terril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terril\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\obj\\",
+      "projectPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\BI.Enterprise.Dto.NGTotalAccessApi.csproj",
+      "packagesPath": "C:\\Users\\tharknes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tharknes\\Documents\\GitHub\\aspnetcore\\NTTotalAccessAPINetCore\\BI.Enterprise.Dto.NGTotalAccessApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\terril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tharknes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -691,6 +691,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://boucotfs:8080/tfs/SOFTWARE/_packaging/BINugetRepository/nuget/v3/index.json": {},
+        "http://klondike.bi.local/api/odata": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

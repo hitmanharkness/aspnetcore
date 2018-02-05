@@ -26,3 +26,16 @@ C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBu
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.AssemblyInfo.cs
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.dll
 C:\Users\terril\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.deps.json
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Enterprise.Dto.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\bin\Debug\netcoreapp2.0\BI.Repository.NGTotalAccessApi.pdb
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.csprojResolveAssemblyReference.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.csproj.CoreCompileInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.AssemblyInfoInputs.cache
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.AssemblyInfo.cs
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.dll
+C:\Users\tharknes\Documents\github\aspnetcore\NTTotalAccessAPINetCore\BI.ServiceBus.Repository.NGTotalAccessApi\obj\Debug\netcoreapp2.0\BI.ServiceBus.Repository.NGTotalAccessApi.pdb

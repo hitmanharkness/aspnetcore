@@ -1,0 +1,1 @@
+C:\Users\tharknes\Documents\GitHub\aspnetcore\NTTotalAccessAPINetCore\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
